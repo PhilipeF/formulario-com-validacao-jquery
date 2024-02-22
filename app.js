@@ -69,7 +69,7 @@ $(document).ready(function () {
 
         },
         submitHandler: function (form) {
-            alert('Dados ok')
+            alert('Dados ok !!')
         }
     })
 })
