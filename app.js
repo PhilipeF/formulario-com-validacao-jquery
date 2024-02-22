@@ -59,7 +59,7 @@ $(document).ready(function () {
             },
         },
         messages: {
-            nome: 'Por favor, insira o seu nome',
+            nome: 'Por favor, insira o seu nome completo' ,
             email: 'Por favor, insira um endereço de e-mail válido',
             telefone: 'Por favor, digite um número de telefone válido',
             cpf: 'Por favor insira um número de CPF válido',
